@@ -1,0 +1,104 @@
+package matrix;
+import java.util.Scanner;
+public class Matrix {
+static int[][] numeros = new int[3][3];
+    public static void main(String[] args) {
+        Matrix();
+        calcDet(int[][] matriz);
+        Desi();
+        
+    }
+public static void Matrix(){
+    Scanner sal = new Scanner(System.in);                       //criar Scanner
+        System.out.println("Qual o tamanho da sua matriz? ");   //pedir valores
+        int tamanho = sal.nextInt();                            //salva valores
+        numeros = new int[tamanho][tamanho];                    //cria matriz
+        String matriz = "matriz\n";
+        for(int Y = 0;Y<tamanho;Y++){                           //loop foda que add itens na matriz
+            for(int X = 0;X<tamanho;X++){
+                System.out.println("Digite o valor da matriz "+"["+Y+"]["+X+"]: ");
+                numeros[Y][X] = sal.nextInt();
+            }
+        }
+   
+}
+public static void calcDet(int[][] matriz){
+        int dp = 0;
+        int ds = 0;
+        int n = matriz[0].length;
+        int colP = 0;
+        int colS = n-1;
+        for(int i = 0; i<n; i++){
+            int diagonalP = 1;
+            int diagonalS = 1;
+             for (int linha = 0; linha < n; linha++) {
+                 if(colP == n){
+                     colP = 0;
+                 }
+                 else if(colP < 0){
+                     colP = n-1;
+                 }
+                 if(colS == n){
+                     colS = 0;
+                 }
+                 else if(colS < 0){
+                     colS = n-1;
+                 }
+                 diagonalS *= matriz[linha][colS];
+                 diagonalP *= matriz[linha][colP];
+                 colP ++;
+                 colS --;
+             }
+             ds += diagonalS;
+             dp += diagonalP;
+             colP --;
+             colS ++;
+        }
+        int determinante = dp-ds;
+        if(determinante < 0){
+            determinante *=-1;
+        }
+       
+        System.out.println("Diagonal principal: "+dp);
+        System.out.println("Diagonal secundária: "+ds);
+        System.out.println("determinante: "+determinante);
+}
+public static void Desi(){
+    Scanner sal = new Scanner(System.in);
+    
+    System.out.println("Deseja alterar algun numeros? [y]/[n]");
+    String disi = sal.nextLine();
+    Alteracao1(disi);      
+}
+
+public static void Alteracao1(String option){
+    Scanner sal = new Scanner(System.in);
+    
+    if(option.equals("y")){
+    System.out.println("Qual numero Voce deseja alterar? ");
+    int num1 = sal.nextInt();
+    System.out.println("Para qual numero? ");
+    int num2 = sal.nextInt();
+    
+    for(int j = 0;j<3;j++){
+        for(int k = 0;k<3;k++){
+            if(numeros[j][k] == num1){
+               numeros[j][k] = num2;
+            }
+        }
+    }
+    Print(numeros);
+    }
+    
+}
+public static void Print(int[][] numeros){
+    String matrix = "matriz: \n";
+    for(int linha = 0; linha < 3; linha ++){
+           for(int coluna = 0; coluna < 3; coluna ++){
+               matrix += numeros[linha][coluna]+" ";
+           } 
+           matrix += "\n";
+        }
+    System.out.println(matrix);
+}
+}

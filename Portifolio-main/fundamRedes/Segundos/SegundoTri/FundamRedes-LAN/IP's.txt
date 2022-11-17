@@ -1,0 +1,29 @@
+IP: 127.40.140.79/8
+endereço de rede:
+127.0.0.0
+broadcast:
+127.255.255.255
+nº do dispositivo:
+16,777,216
+qt dispositivos rede:
+16,777,214
+
+IP: 187.226.103.197/16
+endereço de rede:
+187.226.0.0
+broadcast:
+187.226.255.255
+nº do dispositivo:
+65,536
+qt dispositivos rede:
+65,534
+
+IP: 57.135.103.250/32
+endereço de rede:
+57.135.0.0
+broadcast:
+57.135.127.255
+nº do dispositivo:
+32,768
+qt dispositivos rede:
+32,766

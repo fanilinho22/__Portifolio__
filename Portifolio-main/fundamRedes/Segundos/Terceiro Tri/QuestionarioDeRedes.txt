@@ -1,0 +1,50 @@
+1)Os containers proporcionam uma maneira padrão de empacotar código,
+configurações e dependências de seu aplicativo em um único objeto.
+Eles compartilham um sistema operacional instalado no servidor e são executados
+como processos isolados de recursos. Isso permite fazer implantações rápidas,
+confiáveis e consistentes, independentemente do ambiente. 
+Considerando que voce precise mandar seus codigos de java 
+para Jackson por propositos de correçoes qual sera o beneficio principal em mandar 
+pelo metodo de conteiners:  
+ 
+a)Execute em qualquer lugar, Os containers empacotam seu código com os arquivos 
+de configuração e dependências que são necessários para a execução consistente 
+em qualquer ambiente.
+
+b)Melhore a utilização de recursos, Os containers proporcionam o isolamento de 
+processos, que permite configurar o uso da CPU e da memória de maneira detalhada.
+
+c)Mantenha a escala constante, Cada container é executado como um processo
+junto á outros que compartilha os recursos do sistema operacional subjacente.
+
+d)Conteiners sao extensoes do Neatbeans.
+
+e)conteiners sao extensoes do Figma
+
+
+------------------------------------------------------------------------------------
+
+
+2)Basicamente, a internet é uma rede de conexões globais 
+que permite o compartilhamento instantâneo de dados entre dispositivos.
+A internet é um grande exemplo de Sistema distribuido, considerando esse contexto
+o que é um sistema distribuido?
+
+a)coleção de programas de computador que utilizam recursos computacionais 
+em vários pontos centrais de computação diferentes para atingir um objetivo 
+comum e compartilhado.
+ 
+b)coleção de programas de computador que utilizam recursos computacionais em 
+vários pontos centrais de computação diferentes para atingir um objetivo comum e 
+compartilhado. 
+
+c)Correio eletrónico ou eletrônico é um método ou um sistema que permite compor, 
+enviar e receber mensagens através de um sistema computacional online de comunicação 
+de forma assíncrona.
+
+d)é uma classe de palavras variáveis com que se designam ou se nomeiam os seres. 
+
+e)é a inteligência demonstrada por máquinas ao executar tarefas complexas associadas 
+a seres inteligentes, além de também ser um campo de estudo acadêmico, 
+onde seu principal objetivo é de executar funções de modo autônomo.
+

@@ -1,0 +1,18 @@
+
+//Calculei o IP do computador da minha casa 
+//Usando o ipconfig nop pronpt de comando
+//Daniel pedrozo
+
+IP:25.68.78.115/24
+
+128 64 32 16 8 4 2 1
+
+Rede:25.68.78.0
+Mascara:255.255.255.0
+Broadcast: 25.68.78.255
+qnt/net:254
+
+
+00011001.01000100.01001110 .01110011
+11111111.11111111.11111111 .00000000
+00000000.00000000.00000000 .11111111

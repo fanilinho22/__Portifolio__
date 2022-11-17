@@ -1,0 +1,67 @@
+TV`s:
+
+IP: 127.40.140.79/8
+endereço de rede:
+127.0.0.0
+broadcast:
+127.255.255.255
+nº do dispositivo:
+16,777,216
+qt dispositivos rede:
+16,777,214
+
+IP: 187.226.103.197/16
+endereço de rede:
+187.226.0.0
+broadcast:
+187.226.255.255
+nº do dispositivo:
+65,536
+qt dispositivos rede:
+65,534
+
+
+PC`s:
+
+IP: 57.135.103.250/32
+endereço de rede:
+57.135.0.0
+broadcast:
+57.135.127.255
+nº do dispositivo:
+32,768
+qt dispositivos rede:
+32,766
+
+IP:172.18.176.1/16
+Rede:172.18.0.0/16
+Broadcast:172.18.255.255
+qt/disp:65534
+
+
+Telefones:
+
+IP:200.44.100.255/28
+Rede:200.44.100.240
+Broadcast:200.44.100.255
+qt/disp:14
+
+IP:64.44.124.154/28
+Rede:64.44.124.144
+Broadcast:64.44.124.159
+qt/disp:14
+
+IP:192.168.32.1/20
+Rede:192.168.32.0
+Broadcast:192.168.47.255
+qt/disp:4,094
+
+IP:192.168.15.111/23
+Rede:192.168.14.0
+Broadcast:192.168.15.255
+qt/disp:510
+
+IP:25.68.78.115/22
+Rede:25.68.76.0
+Broadcast:25.68.79.255
+qt/disp:1,022

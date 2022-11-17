@@ -1,0 +1,60 @@
+
+package javaapplication1;
+import java.util.Scanner;
+
+public class JavaApplication1 {
+
+    public static void main(String[] args) {
+        decisaofof(); 
+    }
+    public static void decisaofof(){
+        Scanner sus = new Scanner(System.in);
+        System.out.println("1 - Area da base do prisma: \n2 - Volume Prisma: \n3 - Area total do prisma:");
+        int validacao = sus.nextInt();
+    
+        switch (validacao) {
+            case 1:
+                System.out.println(areaBase());
+                break;
+            case 2:
+                System.out.println(volumePrisma());
+                break;
+            case 3:
+                System.out.println(areaTotal());
+            default:
+                break;
+        }
+    }
+            
+    public static double volumePrisma(){
+        Scanner jaca = new Scanner(System.in);
+        System.out.println("Volume: ");
+        double Vol = jaca.nextDouble();
+        System.out.println("Altura: ");
+        double Alt = jaca.nextDouble();
+        return Vol/Alt;
+        
+    } 
+    public static double areaBase(){
+        Scanner jaca = new Scanner(System.in);
+        System.out.println("Volume: ");
+        double Vol = jaca.nextDouble();
+        System.out.println("Area da base: ");
+        double Alt = jaca.nextDouble();
+        return Vol/Alt;
+    }
+    public static double areaTotal(){
+        Scanner sex = new Scanner(System.in);
+        
+        System.out.println("Digite a Area da base: ");
+        double areaB = sex.nextDouble();
+        System.out.println("Digite o numero de faces: ");
+        double nunF = sex.nextDouble();
+        System.out.println("Digite a area da face: ");
+        double areaF = sex.nextDouble();
+        
+        
+        double result = 2*areaB + nunF*areaF;
+        return result;
+    }
+}

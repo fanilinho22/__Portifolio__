@@ -1,0 +1,5 @@
+#!/bin/bash
+clear //limpa o terminal antes de exeutar o arquivo 
+echo $1 >> $2 // move oq vc escrver para um arquivo q vc escolher
+echo o arquivo $2 possui o seguine texto: //Printa na tela o "$2" e na mesma linha "possui o seguinte texto:"
+cat -n $2 //le a frase colocada em "$2" e bota um contador de linhas ao lado esquerdo da frase
