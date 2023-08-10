@@ -2,7 +2,7 @@
 <h1 align="center"> ∅_∅ Aqui se encontra o meu portfolio pessoal ∅_∅ </h1>
 
 ### *∅_∅* Sobre mim: 
-* Estou estudando no senai de Sao Jose, tenho atualmente 16 anos e trabalho na intelbras na area de inteligencia.
+* Estou estudando no senai de Sao Jose, tenho atualmente 17 anos e dedicando-se a area de cybersecurity.
 
 * Uso a criatividade ao meu favor como ponto forte posso ser o ultimo a fazer algo mas concerteza sera algo inovador e criativo.
 
@@ -10,9 +10,7 @@
 
 * Flexibilidade, adptabilidade e iniciativa sao soft skills que uso e abuso no meu dia a dia.
 
-* Ingles medio, o suficiente para sobreviver fora do brasil.
-
-*  por fim mas nao mesmo importante estou fazemdo um curso tecnico em TI onde estou aprendendo java (Em andamento), git bash e fundamentos de design.
+* Ingles intermediario.
  *∅_∅*
   <br>
   
@@ -57,3 +55,15 @@
   *∅_∅* Alteração de tabelas e tipos de variáveis: Melhor do que acertar em algo é saber consertar esse coisa e essa atividade da alteração de tabelas retrata sobre!
   <br>
   *∅_∅* Formas Normais: Aqui se retrata as primeiras duas formas normais em relação a banco de dados, nada a adicionar.
+
+   ### Porque da escolha das atividade (Terceiro Ano / Segundo trimestre).
+   ####Tstes de Sistemas:
+    *∅_∅* Metodologias ágeis e a Testes juntos: Bom, nada melhor do qeu uma boa pesquisa para conhecer sobre algo na area de TI, ainda mais quando tem a amedronta de nao saber quam o professor vai chamar para apresentar para a turma sobre os conceitos pesquisados.
+    *∅_∅* Testes com Profiler - Shopify: Mao na massa e teste de sistemas! Com certeza e muito interecante poder testar nossas aplicacoes criadas e ver que cada label e botao tem seu pesso no final de uma somatoria!
+    <br>
+    #### Programação de aplicativos:
+    *∅_∅* HTML e CSS: Abusar da criatividade e liberdade na hora de criar algo e maravilhoso, e a programacao nos prove isso , com esa atividade podemos simplismente aplicar nossos conhecimentos em algo nosso, podendo ter um mundo de opicoes criativas, mas no final sempre aprendendo.
+    *∅_∅* AtividadeJsDanilo: Eu diria que essa atividade e uma gamificacao do estudo sobre JS, pois tinhamos alguns "leveis" e cada vez que voce passava para a proxima atividade o "level" dela ia subindo tambem, muito produtiva essa questao.
+    #### Banco de dados:
+    *∅_∅* Junção de tabelas e selecBD: A atividade de junção de tabelas em banco de dados foi uma experiência enriquecedora, permitindo a compreensão das relações entre dados, resolução de problemas reais e aprimoramento das habilidades de análise. Essa habilidade é altamente relevante profissionalmente, preparando-me para contribuir efetivamente em projetos que envolvam manipulação de dados e tomada de decisões informadas.
+<br>
