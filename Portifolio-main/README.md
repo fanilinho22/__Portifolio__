@@ -57,13 +57,13 @@
   *∅_∅* Formas Normais: Aqui se retrata as primeiras duas formas normais em relação a banco de dados, nada a adicionar.
 
    ### Porque da escolha das atividade (Terceiro Ano / Segundo trimestre).
-   ####Tstes de Sistemas:
-    *∅_∅* Metodologias ágeis e a Testes juntos: Bom, nada melhor do qeu uma boa pesquisa para conhecer sobre algo na area de TI, ainda mais quando tem a amedronta de nao saber quam o professor vai chamar para apresentar para a turma sobre os conceitos pesquisados.
-    *∅_∅* Testes com Profiler - Shopify: Mao na massa e teste de sistemas! Com certeza e muito interecante poder testar nossas aplicacoes criadas e ver que cada label e botao tem seu pesso no final de uma somatoria!
-    <br>
-    #### Programação de aplicativos:
-    *∅_∅* HTML e CSS: Abusar da criatividade e liberdade na hora de criar algo e maravilhoso, e a programacao nos prove isso , com esa atividade podemos simplismente aplicar nossos conhecimentos em algo nosso, podendo ter um mundo de opicoes criativas, mas no final sempre aprendendo.
-    *∅_∅* AtividadeJsDanilo: Eu diria que essa atividade e uma gamificacao do estudo sobre JS, pois tinhamos alguns "leveis" e cada vez que voce passava para a proxima atividade o "level" dela ia subindo tambem, muito produtiva essa questao.
-    #### Banco de dados:
-    *∅_∅* Junção de tabelas e selecBD: A atividade de junção de tabelas em banco de dados foi uma experiência enriquecedora, permitindo a compreensão das relações entre dados, resolução de problemas reais e aprimoramento das habilidades de análise. Essa habilidade é altamente relevante profissionalmente, preparando-me para contribuir efetivamente em projetos que envolvam manipulação de dados e tomada de decisões informadas.
+   #### Testes de Sistemas:
+  *∅_∅* Metodologias ágeis e a Testes juntos: Bom, nada melhor do qeu uma boa pesquisa para conhecer sobre algo na area de TI, ainda mais quando tem a amedronta de nao saber quam o professor vai chamar para apresentar para a turma sobre os conceitos pesquisados.
+  *∅_∅* Testes com Profiler - Shopify: Mao na massa e teste de sistemas! Com certeza e muito interecante poder testar nossas aplicacoes criadas e ver que cada label e botao tem seu pesso no final de uma somatoria!
+  <br>
+  #### Programação de aplicativos:
+  *∅_∅* HTML e CSS: Abusar da criatividade e liberdade na hora de criar algo e maravilhoso, e a programacao nos prove isso , com esa atividade podemos simplismente aplicar nossos conhecimentos em algo nosso, podendo ter um mundo de opicoes criativas, mas no final sempre aprendendo.
+  *∅_∅* AtividadeJsDanilo: Eu diria que essa atividade e uma gamificacao do estudo sobre JS, pois tinhamos alguns "leveis" e cada vez que voce passava para a proxima atividade o "level" dela ia subindo tambem, muito produtiva essa questao.
+  #### Banco de dados:
+  *∅_∅* Junção de tabelas e selecBD: A atividade de junção de tabelas em banco de dados foi uma experiência enriquecedora, permitindo a compreensão das relações entre dados, resolução de problemas reais e aprimoramento das habilidades de análise. Essa habilidade é altamente relevante profissionalmente, preparando-me para contribuir efetivamente em projetos que envolvam manipulação de dados e tomada de decisões informadas.
 <br>
